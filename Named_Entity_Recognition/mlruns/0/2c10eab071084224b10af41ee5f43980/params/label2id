@@ -1,0 +1,1 @@
+{'O': 0, 'B-corporation': 1, 'I-corporation': 2, 'B-creative-work': 3, 'I-creative-work': 4, 'B-group': 5, 'I-group': 6, 'B-location': 7, 'I-location': 8, 'B-person': 9, 'I-person': 10, 'B-product': 11, 'I-product': 12}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shine/Documents/projects/NLP-techniques-repo/Named_Entity_Recognition/mlruns/0/49f69401edfe44f6a3c4a1ac07a90f39/artifacts
+end_time: 1719595363780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49f69401edfe44f6a3c4a1ac07a90f39
+run_name: ./results
+run_uuid: 49f69401edfe44f6a3c4a1ac07a90f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719595278118
+status: 3
+tags: []
+user_id: shine
